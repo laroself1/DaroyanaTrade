@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apidocs">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/poi-3.15-beta1/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
